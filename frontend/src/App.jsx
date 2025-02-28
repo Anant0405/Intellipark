@@ -13,6 +13,7 @@ import BookSlot from './Pages/BookSlot';
 import Login from './Components/Authentication/Login';
 import Signup from './Components/Authentication/Signup';
 import SelectPlace from './Pages/SelectPlace';
+import React from 'react';
 
 function App() {
   const [count, setCount] = useState(0)
